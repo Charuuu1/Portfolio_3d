@@ -18,8 +18,9 @@ The Three.js-powered 3D Portfolio offers a captivating and interactive setting t
 
 ![amazon_img (4)](https://github.com/Charuuu1/Portfolio_3d/assets/139768950/96f4123a-0e40-458f-b2a8-8a2c65782486)
 
-The Technology portion of the project exhibits a visually engaging presentation of diverse technologies through the use of *animated ball icons*. Each technology is symbolized by a ball canvas containing its respective icon, resulting in a visually striking and interactive presentation of the developer's skillset.
-![amazon_img (2)](https://github.com/Charuuu1/Portfolio_3d/assets/139768950/36c9c75e-c654-4c8f-89b4-c956ee44ce76)
+->The Technology portion of the project exhibits a visually engaging presentation of diverse technologies through the use of *animated ball icons*. Each technology is symbolized by a ball canvas containing its respective icon, resulting in a visually striking and interactive presentation of the developer's skillset.
+![amazon_img (2)](https://github.com/Charuuu1/Portfolio_3d/assets/139768950/94334c45-3ce6-4a17-9ca1-bbf38114f292)
+
 
 
 
