@@ -24,7 +24,13 @@ The Three.js-powered 3D Portfolio offers a captivating and interactive setting t
 ->The Project section of the project displays an enthralling assortment of endeavors, each exhibited as a project card containing information such as project title, description, and tags. Visitors have the opportunity to examine tangible instances of the developer's undertakings, showcasing their proficiency in multiple technologies. The interactive cards supply links to both code repositories and live demonstrations, furnishing an all-encompassing insight into the developer's competencies and adeptness in project management.
 ![image](https://github.com/Charuuu1/Portfolio_3d/assets/139768950/0f2525c6-eb2c-4a47-8a69-bf514e1fad78)
 
-->
+->Testimonials section include quotes, names, affiliations, even photos of the individuals providing the feedback.
+![image](https://github.com/Charuuu1/Portfolio_3d/assets/139768950/f30d1cd8-8882-47a1-a13d-1344137bf2d7)
+
+->The Contact segment of the project offers an aesthetically pleasing arrangement, featuring a form that enables users to initiate contact with the developer. This form comprises fields where users can input their name, email address, and message. Upon submission, the form utilizes the emailjs library to dispatch an email. The design adopts a stylish black-themed aesthetic, coupled with an enthralling Earth canvas animation as the backdrop, resulting in an immersive and captivating experience for visitors.
+![amazon_img (3)](https://github.com/Charuuu1/Portfolio_3d/assets/139768950/7a695678-2d9c-4cbe-8b25-89bbb2c9dd06)
+
+
 
 
 
